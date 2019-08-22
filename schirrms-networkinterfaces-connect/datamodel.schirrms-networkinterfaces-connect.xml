@@ -291,6 +291,7 @@
 				<field id="connected_to_name" xsi:type="AttributeExternalField" _delta="define">
 					<extkey_attcode>connected_to_id</extkey_attcode>
 					<target_attcode>name</target_attcode>
+					<edit_mode>none</edit_mode>
 				</field>
 			</fields>
 			<methods>
